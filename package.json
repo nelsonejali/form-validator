@@ -1,0 +1,16 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "form validator with javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "build": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ejali Nelson",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}
